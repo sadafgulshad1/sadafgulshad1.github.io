@@ -5,6 +5,7 @@ main:
     conference_short: IJCB
     conference: International Joint Conference on Biometrics <strong>(IJCB)</strong>, 2025.
     pdf: https://arxiv.org/pdf/2505.08423
+    bibtex: -
     code: Not yet released
     image: ./assets/img/teaser_example_2.png
     
